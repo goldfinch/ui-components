@@ -3,7 +3,7 @@
   "version": "3.2.1",
   "license": "MIT",
   "author": "Css Ninja <hello@cssninja.io> (https://cssninja.io)",
-  "repository": "shuriken-ui/nuxt",
+  "repository": "goldfinch/ui-components",
   "bugs": "https://github.com/shuriken-ui/nuxt/issues",
   "homepage": "https://github.com/shuriken-ui/nuxt",
   "keywords": [
